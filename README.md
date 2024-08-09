@@ -1,5 +1,5 @@
-Olá
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Olá!
+Me chamo Isabela Santos, tenho 17 anos. Curso tecnico em desinvolvimento de sistemas💻
 
 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
